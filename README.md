@@ -1,5 +1,14 @@
+
+
 Optmaven-2.0
 16 June 2018
+
+SUBMIT OPTMAVEN-2.0 JOBS USING REQUISITION
+De-novo antibody design (without affinity maturation): shorturl.at/l0167
+HUMANIZER to reduce immunogenicity scores of your existing (de novo/ murine) designs: shorturl.at/stAGR
+
+DOCUMENTATION
+
 Written by Matthew F. Allan and Ratul Chowdhury with contributions from Tong Li and Robert J. Pantazes
 Costas Maranas Laboratory, Department of Chemical Engineering
 The Pennsylvania State University
